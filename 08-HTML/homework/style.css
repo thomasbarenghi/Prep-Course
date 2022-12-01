@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: url("https://www.gallinaponedora.com/wp-content/uploads/2021/11/Gallina-Isa-brown-caracteristicas.jpg");
+}
+
+#sec1 {
+    background: white;
+    width: max-content;
+    padding: 80px;
+    border-radius: 20px;
+}
+
+h1 {
+    color: red;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background: blue;
+    padding: 50px;
+    border-width: 5px;
+    border-color: black;
+    border-style: dashed;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
